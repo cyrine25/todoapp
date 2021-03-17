@@ -1,0 +1,4 @@
+export const MORE_TASK="MORE_TASK";
+export const FINISHED_TASK="FINISHED_TASK";
+export const REVISE_TASK="REVISE_TASK";
+export const REMOVE_TASK="REMOVE_TASK";
